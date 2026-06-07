@@ -37,8 +37,8 @@ Liver disease often goes undetected until serious complications arise. This tool
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-app-name.streamlit.app)  
-*(Replace with your actual Streamlit Cloud URL after deployment)*
+👉 [Click here to try the app](https://liver-disease-predictor-aadutta-special007.streamlit.app/)  
+
 
 ---
 
